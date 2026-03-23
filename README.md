@@ -7,7 +7,8 @@ UC San Diego B.S. Chemical Engineering 2025'\
 UC San Diego M.S. Chemical Engineering 2026'　<-今ここ\
 UW Madison PhD Candidate Chemical Engineering <-loading...
 
-GitHub is a place to save my LaTeX lecture notes. 
+GitHub is a place to save my LaTeX lecture notes. \
+I like Hatsune Miku, GekiChuMai, and Sound Voltex.
 
 <!--
 **ztren/ztren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
