@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Nagayama Saika a.k.a. ztren
+Nagayama Saika a.k.a. ztren\
 よろしくお願いします！ꉂ₍^› ꘍ ‹ ^₎⟆
 
-UC San Diego B.S. Chemical Engineering 2025'
-UC San Diego M.S. Chemical Engineering 2026'　<-今ここ
+UC San Diego B.S. Chemical Engineering 2025'\
+UC San Diego M.S. Chemical Engineering 2026'　<-今ここ\
 UW Madison PhD Candidate Chemical Engineering <-loading...
 
 GitHub is a place to save my LaTeX lecture notes. 
